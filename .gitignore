@@ -5,3 +5,4 @@ __pycache__/
 .vscode/
 
 .venv/
+/prueba_geo.txt

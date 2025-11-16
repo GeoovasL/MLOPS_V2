@@ -1,0 +1,5 @@
+outs:
+- md5: 9c4ba1696b61a819729525f402229bd2
+  size: 21
+  hash: md5
+  path: prueba_geo.txt
